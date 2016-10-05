@@ -1,0 +1,19 @@
+@import 'https://fonts.googleapis.com/css?family=Shrikhand';
+
+body {
+    color: #000000;
+    font-family: 'Shrikhand', cursive;
+    font-size: 100;
+}
+
+.container {
+    display: absolute;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    top: 50%;
+}
+
+.button {
+    
+}
